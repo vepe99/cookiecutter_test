@@ -1,7 +1,7 @@
 # Welcome to cockiecutter_test
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Documentation Status](https://readthedocs.org/projects/cookiecutter_test/badge/)](https://cookiecutter_test.readthedocs.io/)
+[![Documentation Status](https://readthedocs.org/projects/cookiecutter_test/badge/)](https://cookiecutter-firsttest.readthedocs.io/en/latest/)
 [![codecov](https://codecov.io/gh/vepe99/cookiecutter_test/branch/main/graph/badge.svg)](https://codecov.io/gh/vepe99/cookiecutter_test)
 
 ## Installation
