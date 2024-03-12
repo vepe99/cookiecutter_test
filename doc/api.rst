@@ -7,3 +7,6 @@ This is an example function:
 
 .. automodule:: cookiecutter_test
     :members: 
+
+.. automodules:: cookiecutter_module
+    :members:
