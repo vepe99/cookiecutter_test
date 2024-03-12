@@ -17,5 +17,4 @@ Indices and tables
 * :ref:`search`
 
 .. autosummary::
-   :toctree: _autosummary
    :recursive:
