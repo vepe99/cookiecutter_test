@@ -6,4 +6,4 @@ User API
 This is an example function:
 
 .. automodule:: cookiecutter_test
-    :members:
+    :members: cockiecutter_module
