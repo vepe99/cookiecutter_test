@@ -1,4 +1,3 @@
-Welcome to Very good package's documentation!
 =============================================
 
 .. automodule:: cookiecutter_test.cockiecutter_module
