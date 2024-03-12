@@ -9,6 +9,8 @@ cockiecutter_test
    demo
    api
 
+   modules
+
 Indices and tables
 ==================
 
