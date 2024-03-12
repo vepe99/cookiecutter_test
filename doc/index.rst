@@ -12,13 +12,7 @@ cockiecutter_test
 Indices and tables
 ==================
 
-.. * :ref:`genindex`
+* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-.. autosummary::
-   :toctree: _autosummary
-
-   :recursive:
-
-   cockiecutter_test
