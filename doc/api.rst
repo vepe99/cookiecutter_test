@@ -5,5 +5,5 @@ User API
 
 This is an example function:
 
-.. automodule:: cookiecutter_test
+.. automodule:: cookiecutter_test, cookiecutter_module
     :members:
