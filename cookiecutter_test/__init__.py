@@ -9,3 +9,12 @@ def add_one(x: int):
     :return: The successor of the given number
     """
     return x + 1
+
+def multiply_one(x:int, y:int):
+    """An example function that multiplies a number by 2
+
+    :param x: The first input parameter to multiply
+    :param y: The second input parameter to multiply
+    :return: The result of the multiplication
+    """
+    return x * y
