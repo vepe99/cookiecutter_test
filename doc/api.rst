@@ -8,7 +8,7 @@ This is an example function:
 .. automodule:: cookiecutter_test
     :members: 
 
-.. automodule:: cookiecutter_test.cookiecutter_module
+.. automodule:: cookiecutter_test.cokiecutter_module
     :members: 
 
 
