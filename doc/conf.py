@@ -21,7 +21,6 @@ extensions = [
     "nbsphinx_link",
     "sphinx_mdinclude",
     "sphinx.ext.autodoc",
-    "sphinx.ext.autosummary",
     "sphinx_rtd_theme",
 ]
 
@@ -45,4 +44,3 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = []
 
-autosummary_generate = True  # Turn on sphinx.ext.autosummary
