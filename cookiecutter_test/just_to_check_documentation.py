@@ -3,7 +3,6 @@
 Just to check how does the documentaion work
 ===================
 
-this module just import add_one and 
 
 """
 
