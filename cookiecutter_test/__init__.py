@@ -1,6 +1,6 @@
 # The version file is generated automatically by setuptools_scm
 from cookiecutter_test._version import version as __version__
-from coockiecutter_subpackage.just_to_check_documentation import print_smile
+from just_to_check_documentation import print_smile
 
 
 def add_one(x: int):
