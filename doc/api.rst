@@ -12,8 +12,5 @@ This is an example function:
     :members: 
 
 
-.. autosummary::
-    :toctree: generated
 
-    cockiecutter_test
     

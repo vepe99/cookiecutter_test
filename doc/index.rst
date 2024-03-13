@@ -9,6 +9,7 @@ cockiecutter_test
    demo
    api
 
+   test
 
 Indices and tables
 ==================
