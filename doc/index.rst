@@ -7,9 +7,9 @@ cockiecutter_test
 
    intro
    demo
-   api
+   api 
 
-   test
+   test <_autosummary/cockiecutter_test>
 
 Indices and tables
 ==================

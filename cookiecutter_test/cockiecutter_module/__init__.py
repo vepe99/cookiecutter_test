@@ -1,7 +1,6 @@
 """
 ================================================
-cockiecutter module test
+cockiecutter submodule test
 ================================================
-This module contain the test module for the cookiecutter_test package
+This module contain the test submodule for the cookiecutter_test package
 """
-import just_to_check_documentation
